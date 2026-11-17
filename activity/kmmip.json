@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "kmmip",
+    "type": "activity",
+    "description": "Km-scale model intercomparison project: experiments with km-scale Earth system models.",
+    "drs_name": "KmMIP"
+}
