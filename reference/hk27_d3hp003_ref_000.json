@@ -1,0 +1,9 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "hk27_d3hp003_ref_000",
+  "type": "reference",
+  "citation": "Takasuka, D., Satoh, M., Miyakawa, T. et al. A protocol and analysis of year-long simulations of global storm-resolving models and beyond. Prog Earth Planet Sci 11, 66 (2024). https://doi.org/10.1186/s40645-024-00668-1",
+  "doi": "https://doi.org/10.1186/s40645-024-00668-1",
+  "drs_name": "hk27_d3hp003_ref_000"
+}
+    
